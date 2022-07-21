@@ -1,0 +1,47 @@
+.myBg {
+    height: 100vh;
+    background: url("../assets/images/bg1.jpg");
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 3px;
+}
+
+.trending {
+    height: auto;
+    background: url("../assets/images/bg3.jpg");
+    background-size: cover;
+}
+
+.bestphone {
+    height: auto;
+    background: url("../assets/images/bg4.jpg");
+    background-size: cover;
+}
+
+.mobileWrapper {
+
+}
+
+.mobileImage {
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.images {
+    height: 500px;
+}
